@@ -1,6 +1,9 @@
 sample
 new branch changes
-master1 branch 
-new branch changes 2.0
+
+master branch 
+new branch changes 2.0 my changes
+are here
+
 adding some changes
 
